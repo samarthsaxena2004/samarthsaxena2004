@@ -15,3 +15,5 @@ Currently, I’m exploring **machine learning, computer vision, and full-stack d
 - Full-stack development with MERN and Django  
 - Applying machine learning to real-world problems  
 - Designing intuitive user experiences  
+
+![Profile Views](https://komarev.com/ghpvc/?username=samarthsaxena2004&color=blueviolet&style=flat-square)
