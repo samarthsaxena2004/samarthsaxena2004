@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://samarthsaxena.dev">
-    <img width="80" src="https://avatars.githubusercontent.com/u/63669049?v=4" style="border-radius: 50%;">
+    <img width="50" src="https://avatars.githubusercontent.com/u/63669049?v=4" style="border-radius: 50%;">
   </a>
 </p>
 
 <a href="https://github.com/samarthsaxena2004">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthsaxena2004&langs_count=10&theme=dark&layout=compact&hide_border=true&bg_color=0D1117&hide_title=true" height="200px" alt="Most used languages">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthsaxena2004&langs_count=10&theme=dark&layout=compact&hide_border=true&bg_color=0D1117&hide=html,css" height="220px" alt="Most used languages">
 </a>
 
 <p align="center">
