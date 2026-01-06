@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://samarthsaxena.dev"><code>portfolio</code></a> &nbsp;•&nbsp; 
-  <a href="https://x.com/enflect"><code>twitter</code></a> &nbsp;•&nbsp; 
+  <a href="https://x.com/enflect_"><code>twitter</code></a> &nbsp;•&nbsp; 
   <a href="https://www.linkedin.com/in/samarth2004"><code>linkedin</code></a>
 </p>
 
