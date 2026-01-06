@@ -1,32 +1,28 @@
 <p align="center">
-  <a href="https://samarthsaxena.dev">
-    <img width="50" src="https://avatars.githubusercontent.com/u/63669049?v=4" style="border-radius: 50%;">
-  </a>
+  <img width="80" src="https://avatars.githubusercontent.com/u/63669049?v=4" style="border-radius: 50%; border: 1px solid #30363d; padding: 4px;">
 </p>
-
-<a href="https://github.com/samarthsaxena2004">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthsaxena2004&langs_count=10&theme=dark&layout=compact&hide_border=true&bg_color=0D1117&hide=html,css" height="220px" alt="Most used languages">
-</a>
 
 <p align="center">
-  <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a>
+  <samp>
+    <b>SAMARTH SAXENA</b><br>
+    Engineer • Product Architect • Builder
+  </samp>
 </p>
-<p align="center"><b>We received a proper request from your browser.</b></p>
-<p align="center">Not sorry about that. Do not try refreshing and don't contact us if the problem persists.</p>
+
 <p align="center">
-  <a href="https://samarthsaxena.dev">Contact Support</a> —
-  <a href="https://x.com/enflect">Twitter / X</a> —
-  <a href="https://www.linkedin.com/in/samarth2004">LinkedIn</a>
+  <a href="https://samarthsaxena.dev"><code>portfolio</code></a> &nbsp;•&nbsp; 
+  <a href="https://x.com/enflect"><code>twitter</code></a> &nbsp;•&nbsp; 
+  <a href="https://www.linkedin.com/in/samarth2004"><code>linkedin</code></a>
 </p>
 
-<br /><br />
+<br />
 
-<a href="https://samarthsaxena.dev"><img src="https://img.shields.io/badge/Status-Building-brightgreen?style=flat-square&logo=github" alt="Status Badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/Version-2.1.0-blue?style=flat-square" alt="Version Badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/Role-Developer-orange?style=flat-square" alt="Role Badge"></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/status-operational-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/environment-production-58a6ff?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=samarthsaxena2004&color=30363d&style=flat-square&label=traffic" />
+</p>
 
-<a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TS Badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextJS Badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go Badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge"></a>
+<p align="center">
+  <font size="1" color="#484f58">© 2026 // END_OF_TRANSMISSION</font>
+</p>
