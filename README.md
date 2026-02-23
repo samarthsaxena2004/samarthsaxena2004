@@ -29,7 +29,7 @@ AI-native roguelike powered by Tambo Agentic Intelligence. Features generative U
 - **Tech Stack:** TypeScript, Agentic AI  
 - **Achievements:** Innovative voice and AI-driven gaming experience
 
-### [flickAI](https://github.com/samarthsaxena2004/flickAI)
+### [FlickAI](https://github.com/samarthsaxena2004/flickAI)
 Intelligent, context-aware desktop assistant that sees what you see. Powered by Cerebras GLM 4.7 and Cline.  
 - **Tech Stack:** TypeScript, AI Vision  
 - **Achievements:** Context-aware assistance for productivity
