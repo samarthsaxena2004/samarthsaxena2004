@@ -1,6 +1,4 @@
-Engineer • Product Architect • Builder
-
-I'm Samarth from India, a student of Computer Science & Information Technology. I like to work on AI-driven application, backend systems, and distributed computing. I like brainstorming and experimenting build complex and cool projects. Currently exploring things like agentic AI, machine learning integrations, and cloud-native architectures
+I'm Samarth from India, a Computer Science and Information Technology (Engineering) student. I like to work on AI-driven application, backend systems, and distributed computing. I like brainstorming and experimenting build complex and cool projects. Currently exploring things like agentic AI, machine learning integrations, and cloud-native architectures
 
 <p align="center">
   <a href="https://samarthsaxena.dev"><code>portfolio</code></a> &nbsp;•&nbsp; 
