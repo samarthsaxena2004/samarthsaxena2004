@@ -41,6 +41,6 @@ A Self-Healing Distributed Job Queue System powered by Go, Redis, and Gemini.
 Check out my [full repositories](https://github.com/samarthsaxena2004?tab=repositories) for more.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samarthsaxena2004&color=30363d&style=flat-square&label=profile views" />
+  <img src="https://komarev.com/ghpvc/?username=samarthsaxena2004&color=30363d&style=flat-square&label=profile-views" />
 </p>
 
