@@ -1,46 +1,52 @@
-I'm Samarth from India, a Computer Science and Information Technology (Engineering) student. I like to work on AI-driven application, backend systems, and distributed computing. I like brainstorming, experimenting, and build complex and cool projects. Currently exploring things like agentic AI, machine learning integrations, and cloud-native architectures
+<p align="center">
+I'm Samarth from India. I build AI applications, agentic workflows, distributed backends, and low-latency systems. I enjoy experimenting with new ideas and building practical, scalable systems, with a focus on LLM inference, systems engineering, and fault-tolerant architectures.
+</p>
+
 
 <p align="center">
   <a href="https://samarthsaxena.dev"><code>portfolio</code></a> &nbsp;•&nbsp; 
   <a href="https://x.com/enflect_"><code>twitter</code></a> &nbsp;•&nbsp; 
   <a href="https://www.linkedin.com/in/samarth2004"><code>linkedin</code></a> &nbsp;•&nbsp; 
-    <a href="mailto:samarthsaxena.career@gmail.com"><code>mail</code></a>
+  <a href="mailto:samarthsaxena.career@gmail.com"><code>mail</code></a>
 </p>
-
 
 ## Projects
 
 Here are some of my highlighted projects:
 
-### [NoteWave](https://github.com/samarthsaxena2004/note-wave)
-RAG-powered PDF companion that turns any textbook into interactive research chats, 3D flashcards, and audio-synced AI host conversations.
-- **Tech Stack:** TypeScript, AI/ML integrations  
-- **Achievements:** Enhances learning with interactive AI features
-
-### [AI Knowledge Hub](https://github.com/samarthsaxena2004/ai-knowledge-hub)
-Containerized, resource-efficient backend service built with Docker and FastAPI for scalable AI knowledge management.
-- **Tech Stack:** TypeScript, Docker, FastAPI  
-- **Achievements:** Optimized for scalability and ease of deployment
-
-### [PlayDungeon](https://github.com/samarthsaxena2004/PlayDungeon)
-AI-native roguelike powered by Tambo Agentic Intelligence. Features generative UI, voice-driven gameplay, and a Dungeon Master.  
-- **Tech Stack:** TypeScript, Agentic AI  
-- **Achievements:** Innovative voice and AI-driven gaming experience
-
 ### [FlickAI](https://github.com/samarthsaxena2004/flickAI)
-Intelligent, context-aware desktop assistant that sees what you see. Powered by Cerebras GLM 4.7 — 1st place winner in the Cerebras x Cline GLM4.7 Hackathon ($2,500 prize).
-- **Tech Stack:** TypeScript, AI Vision  
-- **Achievements:** Context-aware assistance for productivity
-- **Hackathon Winning Project**: Won 1st place in the Cerebras x Cline GLM4.7 Hackathon, securing a $2,500 USD prize and Cerebras Code plans. Built in just 24 hours using fast inference.
+Context-aware desktop assistant that sees what you see on screen with sub-second response streaming and voice transcription.
+- **Tech Stack:** TypeScript, Electron, React, Cerebras GLM-4.7, Deepgram, Turborepo
+- **Recognition:** 1st Place Winner in the Cerebras GLM-4.7 Hackathon ($2,500 USD Prize).
+
+### [PRISM](https://github.com/samarthsaxena2004/prism) · [Live Demo](https://prism.samarthsaxena.dev/)
+Multi-agent document intelligence platform digitizing unconstrained handwritten forms into structured JSON in ~12 seconds.
+- **Tech Stack:** TypeScript, Next.js, Cerebras, Gemma 4 (31B), TailwindCSS
+- **Key Highlight:** 5-agent pipeline handling visual field extraction, handwriting recognition, and schema validation.
 
 ### [ResQ Orchestrator](https://github.com/samarthsaxena2004/resq-orchestrator)
-A Self-Healing Distributed Job Queue System powered by Go, Redis, and Gemini for reliable, fault-tolerant orchestration..  
-- **Tech Stack:** Go, Redis, Gemini  
-- **Achievements:** Self-healing mechanism for reliable job processing
+Self-healing distributed task queue and worker pool system with autonomous error mitigation.
+- **Tech Stack:** Go (Golang), Redis, Google Gemini Pro, Docker
+- **Key Highlight:** Intercepts dead-letter queue (DLQ) task crashes and leverages Gemini Pro to diagnose stack traces and apply runtime remediation.
+
+### [NoteWave](https://github.com/samarthsaxena2004/note-wave) · [Live Demo](https://notewave.samarthsaxena.dev/)
+AI research copilot converting complex PDFs into interactive knowledge graphs, 3D concept flashcards, and audio discussions.
+- **Tech Stack:** TypeScript, Next.js 16, RAG, LangChain, Vector Databases, Web Audio
+- **Key Highlight:** Hybrid semantic vector search paired with audio-synchronized concept breakdowns.
+
+### [PlayDungeon](https://github.com/samarthsaxena2004/PlayDungeon) · [Live Demo](https://play-dungeon.samarthsaxena.dev/)
+AI-native procedural roguelike driven by an autonomous Dungeon Master agent and real-time generative UI.
+- **Tech Stack:** TypeScript, React, Tambo Agentic Intelligence, TailwindCSS
+- **Key Highlight:** Dynamic game loop that generates branching narratives and on-the-fly UI tailored to player choices.
+
+### [cpp-threadpool](https://github.com/samarthsaxena2004/cpp-threadpool)
+Header-only, high-performance C++ thread pool with a thread-safe task queue and asynchronous return value retrieval.
+- **Tech Stack:** C++17/20, Multithreading, Concurrency Primitives (`std::future`, `std::condition_variable`)
+
+---
 
 Check out my [full repositories](https://github.com/samarthsaxena2004?tab=repositories) for more.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samarthsaxena2004&color=30363d&style=flat-square&label=profile-views" />
 </p>
-
