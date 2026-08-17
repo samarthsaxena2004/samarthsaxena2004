@@ -1,7 +1,4 @@
-<p align="center">
 I'm Samarth from India. I build AI applications, agentic workflows, distributed backends, and low-latency systems. I enjoy experimenting with new ideas and building practical, scalable systems, with a focus on LLM inference, systems engineering, and fault-tolerant architectures.
-</p>
-
 
 <p align="center">
   <a href="https://samarthsaxena.dev"><code>portfolio</code></a> &nbsp;•&nbsp; 
